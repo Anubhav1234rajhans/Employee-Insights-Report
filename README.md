@@ -4,7 +4,7 @@
 
 This project provides an in-depth Employee Insights Report using Excel and Power BI. It analyzes workforce distribution, experience levels, and leave trends to help businesses make data-driven HR decisions.
 
-🔍 Key Features:
+## 🔍 Key Features:
 
 ✅ Excel Analysis: Pivot Tables & Power Query for structured reporting.
 
@@ -14,17 +14,18 @@ This project provides an in-depth Employee Insights Report using Excel and Power
 
 ✅ Dynamic Filters & Slicers: Age, Gender, City, Education filters for better exploration.
 
-📊 Dashboard Insights
+## 📊 Dashboard Insights
+
 Total Employees 💼
 
 Leave Percentage 📅
 
 Work Experience Distribution 📈
 
-🚀 Technologies Used
+## 🚀 Technologies Used
 
 Excel: Pivot Tables, Power Query
 
 Power BI: DAX, Visualizations
 
-👨‍💻 By Anubhav Rajhans
+# 👨‍💻 By Anubhav Rajhans
