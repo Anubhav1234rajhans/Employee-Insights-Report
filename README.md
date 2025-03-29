@@ -1,4 +1,5 @@
 Employee Insights Report
+
 📊 Project Overview
 This project provides an in-depth Employee Insights Report using Excel and Power BI. It analyzes workforce distribution, experience levels, and leave trends to help businesses make data-driven HR decisions.
 
